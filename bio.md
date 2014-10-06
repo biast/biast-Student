@@ -7,6 +7,10 @@ Hi everyone,
   In my free time I enjoy trying to continue to read philosophy/psychoanalysis books, novels, poetry, etc. I play guitar and love music. My main area of interest as of late has been classical music, which has finally started to make some sense to me in the past few months. Other than that my main love is probably punk and indie rock. I live with my girlfriend and our chihuahua/jack russel, Fritz. I have recently gotten back into the world of video games and have been really enjoying some online multiplayer stuff like Call of Duty (I am a major latecomer to online gaming). I also love movies and am eagerly anticipating P.T. Anderson's Inherent Vice at the moment.
 
   I currently work as a waiter at a restaurant called Aladdin's Eatery. We serve Lebanese food. I've been there for a little over a year now and have enjoyed my time. Serving can be an interesting job that puts you into contact with a wide range of people.
+  
+  
+  as;dlfkjas;lfksja;flksjd;flkjs;flkjs;lfksjaf
+  as;dlfkjasd;flkajsf;lksjf;lksjf
 
 PROGRAMMING BACKGROUND:
 
