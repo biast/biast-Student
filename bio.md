@@ -6,6 +6,7 @@ Hi everyone,
 
   In my free time I enjoy trying to continue to read philosophy/psychoanalysis books, novels, poetry, etc. I play guitar and love music. My main area of interest as of late has been classical music, which has finally started to make some sense to me in the past few months. Other than that my main love is probably punk and indie rock. I live with my girlfriend and our chihuahua/jack russel, Fritz. I have recently gotten back into the world of video games and have been really enjoying some online multiplayer stuff like Call of Duty (I am a major latecomer to online gaming). I also love movies and am eagerly anticipating P.T. Anderson's Inherent Vice at the moment.
 
+ Alternate timeline! In here, rather than talk about my job, I say that my absolute favorite composer is Jean Sibelius. His symphonies never fail to inspire or move me.
 
 PROGRAMMING BACKGROUND:
 
