@@ -10,3 +10,7 @@
 .blue_column{
 	color: blue;
 }
+
+.term:hover  + .definition{
+	background: purple;
+}
