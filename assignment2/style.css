@@ -35,3 +35,65 @@
 	width: 385px;
 	margin-bottom: 20px;
 }
+
+.red_div{
+	float: left;
+	margin-left: 5%;
+	height: 100px;
+	margin-top: 20px;
+	margin-bottom: 75px;
+	width: 15%;
+	margin-right: 10%;
+	background-color: red;
+	clear: left;
+}
+
+.orange_div{
+	float: left;
+	margin-top: 20px;
+	margin-right: 20%;
+	margin-bottom: 75px;
+	height: 100px;
+	width: 50%;
+	background-color: orange;
+	clear: right;
+}
+
+.yellow_div{
+	float: left;
+	margin-left: 100px;
+	height: 200px;
+	width: 50px;
+	margin-right: 20px;
+	margin-bottom: 75px;
+	background-color: yellow;
+	clear: left;
+}
+
+.green_div{
+	float: left;
+	height: 200px;
+	width: 150px;
+	margin-bottom: 75px;
+	background-color: green;
+	clear: right;
+}
+
+
+.blue_div{
+	float: right;
+	height: 200px;
+	width: 50px;
+	background-color:blue;
+}
+
+.purple_div{
+	float: right;
+	margin-right: 100px;
+	height: 200px;
+	width: 150px;
+	margin-left: 20px;
+	background-color: purple;
+	clear: left;
+}
+
