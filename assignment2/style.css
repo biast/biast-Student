@@ -14,3 +14,24 @@
 .term:hover  + .definition{
 	background: purple;
 }
+
+.form_line{
+	display: inline-block;
+	width: 150px;
+	text-align: right;
+}
+
+.radio_button{
+	padding-left: 117px;
+}
+
+.submit_button{
+	margin-left: 122px;
+}
+
+.forms{
+	margin-top: 20px;
+	border: solid;
+	width: 385px;
+	margin-bottom: 20px;
+}
